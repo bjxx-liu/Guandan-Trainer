@@ -4,3 +4,7 @@ build/
 coverage/
 .DS_Store
 *.log
+*.pyc
+python-ai-service/.venv/
+python-ai-service/__pycache__/
+python-ai-service/.pytest_cache/
